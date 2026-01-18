@@ -1,0 +1,5 @@
+- GROUP BY + HAVING: dùng để lọc theo nhóm
+- Subquery: dùng để so sánh với MAX / AVG
+- LEFT JOIN: giữ lại bản ghi không có quan hệ
+- UNION: gộp tập kết quả (OR)
+- INTERSECT: lấy phần giao (AND)
